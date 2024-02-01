@@ -1,5 +1,6 @@
-package com.billstephens.springboot.demo.mycoolapp;
+package com.billstephens.springboot.demo.mycoolapp.rest;
 
+import com.billstephens.springboot.demo.mycoolapp.common.Coach;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

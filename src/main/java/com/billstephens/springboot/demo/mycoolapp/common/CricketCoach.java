@@ -1,4 +1,4 @@
-package com.billstephens.springboot.demo.mycoolapp;
+package com.billstephens.springboot.demo.mycoolapp.common;
 
 import org.springframework.stereotype.Component;
 
